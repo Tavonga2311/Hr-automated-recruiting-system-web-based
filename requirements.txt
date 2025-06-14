@@ -1,0 +1,13 @@
+flask
+flask-wtf
+flask-login
+flask-sqlalchemy
+python-docx
+pdfminer.six
+python-magic
+scikit-learn
+pandas
+numpy
+spacy
+nltk
+email-validator
